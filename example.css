@@ -1,0 +1,42 @@
+@import url(https://fonts.googleapis.com/css?family=Raleway:400,800|Open+Sans:400,800,400italic,700,700italic|Chivo:400,400italic,900,900italic|Poppins:400,500|Droid+Serif:400,400italic,700|PT+Serif:400,400italic,700italic|Vollkorn:400,400italic,700,700italic|Noticia+Text:400,700,700italic,400italic|Gentium+Book+Basic:400,400italic,700,700italic|Adamina|Fanwood+Text:400,400italic|Halant:400,500,300,700);
+
+
+html, body {
+	font-family: 'Gentium Book Basic', serif;
+	overflow: auto;
+	height: auto;
+	margin: 0;
+	padding: 0;
+	top: 0;
+	left: 0;
+}
+
+* {
+	box-sizing: border-box;
+}
+
+.wrapper {
+	margin: 80px auto;
+	width:100%;
+	position: relative;
+}
+
+h1 {
+	font-family: 'Raleway';
+	font-weight: 700;
+	text-align: center;
+	text-transform: uppercase;
+	font-size: 28px;
+}
+
+p {
+	font-size: 21px;
+	line-height:1.8;
+}
+
+.story {
+	width:700px;
+	margin: 0 auto;
+	position: relative;
+	padding: 20px 0 0 0;
+}
